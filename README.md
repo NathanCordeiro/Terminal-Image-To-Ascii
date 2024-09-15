@@ -36,3 +36,7 @@ codes to represent the original RGB colors of the image.
 | `▀`             | `0xFE`   | Dark shading, upper half.                    |
 | `▒`             | `0xB1`   | Medium-light shading.                        |
 | `▓`             | `0xB2`   | Medium-dark shading.                         |
+
+
+## License
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
