@@ -19,9 +19,10 @@ codes to represent the original RGB colors of the image.
 
 ## Images
 - ### Original Image
-  ![Original Image](./ascii.png)
+  <img src="./ascii.png" alt="Original Image" width="300" height="400">
 - ## Terminal Ascii Image
-  ![Ascii Image](./terminal.png)
+  <img src="./terminal.png" alt="Ascii Image" width="300" height="400">
+
 
 ## Function Overview
 | Function                                     | Description                                                                 |
