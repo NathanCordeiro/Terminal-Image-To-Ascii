@@ -17,6 +17,12 @@ codes to represent the original RGB colors of the image.
 3. **Color Conversion**: The RGB color of each pixel is converted to an ANSI escape code.
 4. **Display in Terminal**: The ASCII art is displayed in the terminal using the correct colors and characters.
 
+## Images
+- ### Original Image
+  ![Original Image](./ascii.png)
+- ## Terminal Ascii Image
+  ![Ascii Image](./terminal.png)
+
 ## Function Overview
 | Function                                     | Description                                                                 |
 |----------------------------------------------|-----------------------------------------------------------------------------|
