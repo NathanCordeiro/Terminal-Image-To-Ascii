@@ -22,7 +22,8 @@ codes to represent the original RGB colors of the image.
   <img src="./Imgs/ascii.png" alt="Original Image" width="300" height="400" style="display:inline-block; margin-right:5%;">
   <img src="./Imgs/Anime.jpg" alt="Original Image" width="300" height="400" style="display:inline-block;">
 - ## Terminal Ascii Image
-  <img src="./Imgs/terminal.png" alt="Ascii Image" width="300" height="400">
+  <img src="./Imgs/terminal.png" alt="Ascii Image" width="300" height="400" style="display:inline-block; margin-right:5%;">
+  <img src="./Imgs/terminal2.png" alt="Ascii Image" width="300" height="400" style="display:inline-block;">
 
 
 ## Function Overview
